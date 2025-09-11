@@ -1,6 +1,6 @@
-# MCP-Server-Client-Demo
+# MCP-Client-Server-Console-Demo
 
-This repository demonstrates a simple Model Context Protocol (MCP) server and client implementation in .NET.
+This repository demonstrates a simple Model Context Protocol (MCP) server and client console implementation in .NET.
 
 ## Solution Structure
 
